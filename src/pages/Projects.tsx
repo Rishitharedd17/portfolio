@@ -8,18 +8,18 @@ const Section = styled.section`
   width: 100vw;
 `;
 
-const VideoContainer = styled.div`
-  display: flex;
-  justify-content: center;
-  margin-bottom: 2rem;
-`;
+// const VideoContainer = styled.div`
+//   display: flex;
+//   justify-content: center;
+//   margin-bottom: 2rem;
+// `;
 
-const StyledVideo = styled.video`
-  width: 80vw;
-  max-width: 700px;
-  border-radius: 12px;
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
-`;
+// const StyledVideo = styled.video`
+//   width: 80vw;
+//   max-width: 700px;
+//   border-radius: 12px;
+//   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+// `;
 
 const Heading = styled.h2`
   font-size: 2rem;

@@ -65,12 +65,12 @@ const Contact: React.FC = () => {
     <ContactSection id="contact">
       <Title>Get in Touch</Title>
       <ContactDetails>
-        <p>Email me at: <a href="mailto:varshitha.2925@gmail.com">varshitha.2925@gmail.com</a></p>
-        <p>Based in Overland Park, Kansas</p>
+        <p>Email me at: <a href="mailto:devireddyrishithareddy@gmail.com">devireddyrishithareddy@gmail.com</a></p>
+        <p>Based in Hyderabad, Telangana</p>
       </ContactDetails>
       <SocialLinks>
         <a
-          href="https://www.linkedin.com/in/varshitha-reddy-756494185/"
+          href="https://www.linkedin.com/in/rishitha-reddy-1381392b5/"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="LinkedIn"
@@ -78,7 +78,7 @@ const Contact: React.FC = () => {
           <FaLinkedin />
         </a>
         <a
-          href="https://github.com/Varshitha2925"
+          href="https://github.com/Rishitharedd17"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="GitHub"

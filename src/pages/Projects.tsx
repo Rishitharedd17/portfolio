@@ -114,32 +114,29 @@ const Projects: React.FC = () => {
 
   const projects = [
     {
-      title: "AI Image Generator",
-      description:
-        "A full-stack MERN application replicating MidJourney and DALL-E, with AI-driven text-to-image generation.",
-      liveDemo: "#",
-      codeLink: "#",
-    },
-    {
-      title: "Doctor-Patient Appointment",
-      description:
-        "Built a secure REST API for user management, appointment scheduling, and payment processing using Stripe.",
-      liveDemo: "#",
-      codeLink: "https://github.com/Varshitha2925/Doctor-Patient-Appointment",
-    },
-    {
       title: "Portfolio Website",
       description:
         "A fully responsive portfolio website showcasing skills, projects, and experience with smooth animations.",
       liveDemo: "#",
-      codeLink: "https://github.com/Varshitha2925/portfolio",
+      codeLink: "https://github.com/Rishitharedd17/portfolio",
     },
     {
       title: "Event Booking Platform",
       description:
         "Built a secure REST API for user management, book event, organize events,send a remainder email for the event using nodemail",
       liveDemo: "#",
-      codeLink: "https://github.com/Varshitha2925/Event-Booking-Platform-WEB",
+    },
+    {
+      title: "Integrating Remote Sensing and Machine Learning for Food-Secure Agriculture",
+      description:
+        "Unified satellite, weather, and soil data for crop yield prediction using Python and ML (XGBoost, RF, SVR). Built deep models for anomaly detection and identified key yield drivers for scalable planning.",
+      liveDemo: "#",
+    },
+    {
+      title: "RNA Family classifcation Using LLM and NLP",
+      description:
+        "Built an LLM-based NLP pipeline (BioBERT, SciBERT, GPT-4) to classify RNA families from sequence and literature. Used clustering to discover novel noncoding RNA families linked to disease.",
+      liveDemo: "#",
     },
   ];
 

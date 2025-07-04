@@ -6,10 +6,6 @@ import Home from "./components/Hero";
 import Contact from "./pages/Contact";
 import Projects from "./pages/Projects";
 import Skills from "./pages/Skills";
-import Experience from "./pages/Experience";
-// import GitHubCommitChart from "./pages/GitHubCommitChart";
-// import GitHubStats from "./pages/GitHubStats";
-import GitHubRepoStats from "./pages/GitHubRepoStats";
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 
@@ -37,12 +33,6 @@ const App: React.FC = () => {
         <Section id="home" data-aos="fade-up">
           <Home />
         </Section>
-        {/* <Section id="about">
-          <About />
-        </Section> */}
-        <Section id="experience">
-          <Experience />
-        </Section>
         <Section id="skills">
           <Skills />
         </Section>
@@ -50,17 +40,8 @@ const App: React.FC = () => {
           <Projects />
         </Section>
         <Section id="contact">
-        <GitHubRepoStats username="Varshitha2925" />
-        </Section>
-        {/* <Section id="contact">
-        <GitHubStats username="Varshitha2925"/>
-        </Section> */}
-        <Section id="contact">
           <Contact />       
         </Section>
-        
-        
-
     </div>
   );
 };

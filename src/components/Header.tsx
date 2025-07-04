@@ -77,7 +77,7 @@ const Header: React.FC = () => {
           duration={500}
           offset={-70}
         >
-          Varshitha Reddy
+          Rishitha Reddy
         </NavLink>
       </Logo>
 
@@ -123,7 +123,7 @@ const Header: React.FC = () => {
           Contact
         </NavLink>
         <ResumeLink
-          href="https://docs.google.com/document/d/1eH05qH0Rb43knkRwQECmIYGV4PdHmGiqNXaDuQRCGuw/edit?usp=sharing"
+          href="https://drive.google.com/file/d/1oOrKPS3jX0Ah6OfjvdVwCmVldbE1nADT/view?usp=sharing"
           target="_blank"
           rel="noopener noreferrer"
         >

@@ -110,7 +110,7 @@ const Hero: React.FC = () => {
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 1 }}
         >
-          Hi, I'm Varshitha Reddy
+          Hi, I'm Rishitha Reddy
         </HeroTitle>
 
         <HeroSubtitle
@@ -118,7 +118,8 @@ const Hero: React.FC = () => {
           animate={{ opacity: 1, x: 0 }}
           transition={{ delay: 0.5, duration: 1 }}
         >
-          Software Engineer | Full-Stack Developer
+          Final Year Computer Science Student
+          <br />
         </HeroSubtitle>
 
         <HeroDescription
@@ -126,8 +127,11 @@ const Hero: React.FC = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 1, duration: 1 }}
         >
-          I'm passionate about building scalable, user-focused web applications and integrating cutting-edge AI technologies. 
-          Always curious and driven to innovate, I aim to craft meaningful digital experiences that solve real-world problems.
+          Passionate about software development, AI, and open source. 
+          <br />
+          Currently exploring the world of web development and machine learning.
+          <br />
+          Let's connect and build something amazing together!
         </HeroDescription>
       </HeroContent>
 

@@ -10,7 +10,7 @@ const FooterContainer = styled.footer`
 export default function Footer() {
   return (
     <FooterContainer>
-      &copy; {new Date().getFullYear()} Varshitha Reddy. All Rights Reserved.
+      &copy; {new Date().getFullYear()} Rishitha Reddy. All Rights Reserved.
     </FooterContainer>
   );
 }
